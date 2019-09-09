@@ -19,3 +19,5 @@
     * Make Learning Curves
     * Overfitting (+data), Underfitting (+features)
     * Advanced Optimization
+### Notes:
+ * too many arceus?
