@@ -1,6 +1,10 @@
 # Pokemon-GAN
-
 ### List of Tasks:
+* Ajith
+    * Pick up when Sahil finishes
+* Sahil
+    * process images in octave
+### Project Roadmap:
 * Design a working dataset [Finish by Sept. 15]
     * Find one
     * Make a list of appropriate manipulations
