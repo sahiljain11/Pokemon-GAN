@@ -1,9 +1,10 @@
 # Pokemon-GAN
 ### List of Tasks:
 * Ajith
-    * gradually increase resolution
+    * HOG
 * Sahil
-    * whitening
+    * FAST
+* Next Meeting: Figure who is doing SURF
 ### Project Roadmap:
 * Design a working dataset [Finish by Sept. 15]
     * Find one
@@ -25,3 +26,4 @@
     * Advanced Optimization
 ### Notes:
  * too many arceus?
+ * SIFT?
