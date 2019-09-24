@@ -1,9 +1,9 @@
 # Pokemon-GAN
 ### List of Tasks:
 * Ajith
-    * Pick up when Sahil finishes
+    * gradually increase resolution
 * Sahil
-    * process images in octave
+    * whitening
 ### Project Roadmap:
 * Design a working dataset [Finish by Sept. 15]
     * Find one
